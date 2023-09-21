@@ -50,7 +50,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 520px;
+    min-height: 584px;
   }
 
   .u-section-1 .u-image-1 {
@@ -67,8 +67,8 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-left: -25px;
-    margin-right: -25px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 } .u-section-2 {
   background-image: linear-gradient(#ff0c00, white);
