@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: none;
+  background-image: linear-gradient(#ff00b4, #ff00b4);
 }
 
 .u-section-1 .u-sheet-1 {
@@ -72,7 +72,7 @@
     margin-right: 16px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(#d600d0, white);
+  background-image: linear-gradient(#ff00b4, white);
 }
 
 .u-section-2 .u-sheet-1 {
